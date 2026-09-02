@@ -22,6 +22,7 @@ El servidor recibe las solicitudes del cliente, procesa la información y devuel
 **Ejemplo de comunicación**
 Cuando un usuario inicia sesión, el navegador envía los datos al servidor. El servidor verifica la información y devuelve una respuesta indicando si el inicio de sesión fue correcto o no.
 
+#PARTE 3
 # El Back-End (Servidor) y Base de Datos
 
 ## ** ¿Qué es el Back-End?**
